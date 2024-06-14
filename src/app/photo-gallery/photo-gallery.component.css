@@ -1,0 +1,13 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .photo {
+    margin: 10px;
+    width: 150px;
+    text-align: center;
+  }
+  .photo img {
+    max-width: 100%;
+    height: auto;
+  }
